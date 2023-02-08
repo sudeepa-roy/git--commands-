@@ -1,0 +1,10 @@
+git --version 
+git status
+git init
+
+git config --global user.name "sudeepa roy"
+git config --global user.email "rsudeepa04@gmail.com"
+
+git log
+git add . =====> stage all the files
+git commit -m "version 2" ====> commit the files
